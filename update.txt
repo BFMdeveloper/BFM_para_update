@@ -1,27 +1,27 @@
-Èí¼ş°æ±¾ = 4.1
-¸üĞÂÊ±¼ä = 2018/07/20
+è½¯ä»¶ç‰ˆæœ¬ = 4.1
+æ›´æ–°æ—¶é—´ = 2018/07/20
 
-¸üĞÂÎÄ¼şÃû³Æ1 = ¡¶BFM±ê×¼»¯²ÎÊıÉè¶¨¹¤¾ß.exe¡·
-¸üĞÂÎÄ¼şÂ·¾¶1 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/BFM%E6%A0%87%E5%87%86%E5%8C%96%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A%E5%B7%A5%E5%85%B7.exe
-ÏÂÔØÄ¿±êÂ·¾¶1 = \
+æ›´æ–°æ–‡ä»¶åç§°1 = ã€ŠBFMæ ‡å‡†åŒ–å‚æ•°è®¾å®šå·¥å…·.exeã€‹
+æ›´æ–°æ–‡ä»¶è·¯å¾„1 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/BFM%E6%A0%87%E5%87%86%E5%8C%96%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A%E5%B7%A5%E5%85%B7.exe
+ä¸‹è½½ç›®æ ‡è·¯å¾„1 = \
 
-¸üĞÂÎÄ¼şÃû³Æ2 = ¡¶history.txt¡·
-¸üĞÂÎÄ¼şÂ·¾¶2 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/history.txt
-ÏÂÔØÄ¿±êÂ·¾¶2 = \
+æ›´æ–°æ–‡ä»¶åç§°2 = ã€Šhistory.txtã€‹
+æ›´æ–°æ–‡ä»¶è·¯å¾„2 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/history.txt
+ä¸‹è½½ç›®æ ‡è·¯å¾„2 = \
 
 ;
-¸üĞÂÎÄ¼şÃû³Æ1 = ¡¶²ÎÊı±ê×¼¹ÜÀíÆ½Ì¨-³µ´²°æ£¨V20180719£©.xlsx¡·
-¸üĞÂÎÄ¼şÂ·¾¶1 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/%E5%8F%82%E6%95%B0%E6%A0%87%E5%87%86%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E8%BD%A6%E5%BA%8A%E7%89%88%EF%BC%88V20180719%EF%BC%89.xlsx
-ÏÂÔØÄ¿±êÂ·¾¶1 = \res\
-¸üĞÂÎÄ¼şÃû³Æ2 = ¡¶²ÎÊı±ê×¼¹ÜÀíÆ½Ì¨-Ï³´²°æ£¨V20180719£©.xlsx¡·
-¸üĞÂÎÄ¼şÂ·¾¶2 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/%E5%8F%82%E6%95%B0%E6%A0%87%E5%87%86%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E9%93%A3%E5%BA%8A%E7%89%88%EF%BC%88V20180719%EF%BC%89.xlsx
-ÏÂÔØÄ¿±êÂ·¾¶2 = \res\
-¸üĞÂÎÄ¼şÃû³Æ3 = ¡¶local.txt¡·
-¸üĞÂÎÄ¼şÂ·¾¶3 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/local.txt
-ÏÂÔØÄ¿±êÂ·¾¶3 = \
+æ›´æ–°æ–‡ä»¶åç§°1 = ã€Šå‚æ•°æ ‡å‡†ç®¡ç†å¹³å°-è½¦åºŠç‰ˆï¼ˆV20180719ï¼‰.xlsxã€‹
+æ›´æ–°æ–‡ä»¶è·¯å¾„1 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/%E5%8F%82%E6%95%B0%E6%A0%87%E5%87%86%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E8%BD%A6%E5%BA%8A%E7%89%88%EF%BC%88V20180719%EF%BC%89.xlsx
+ä¸‹è½½ç›®æ ‡è·¯å¾„1 = \res\
+æ›´æ–°æ–‡ä»¶åç§°2 = ã€Šå‚æ•°æ ‡å‡†ç®¡ç†å¹³å°-é“£åºŠç‰ˆï¼ˆV20180719ï¼‰.xlsxã€‹
+æ›´æ–°æ–‡ä»¶è·¯å¾„2 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/%E5%8F%82%E6%95%B0%E6%A0%87%E5%87%86%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E9%93%A3%E5%BA%8A%E7%89%88%EF%BC%88V20180719%EF%BC%89.xlsx
+ä¸‹è½½ç›®æ ‡è·¯å¾„2 = \res\
+æ›´æ–°æ–‡ä»¶åç§°3 = ã€Šlocal.txtã€‹
+æ›´æ–°æ–‡ä»¶è·¯å¾„3 = https://raw.githubusercontent.com/BFMdeveloper/BFM_para_update/master/local.txt
+ä¸‹è½½ç›®æ ‡è·¯å¾„3 = \
 
 
 -----------------------------------------------------------------------------------------------------------------
-¸üĞÂÄÚÈİ¼ÇÂ¼
-#1¡¢¸üĞÂÈí¼şÄÚ²¿µÄ°æ±¾ÏÔÊ¾´íÎó
+æ›´æ–°å†…å®¹è®°å½•
+#1ã€æ›´æ–°å¹³å°æ¬å®¶
 
